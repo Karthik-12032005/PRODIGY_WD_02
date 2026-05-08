@@ -35,7 +35,7 @@ PRODIGY_WD_02
 
 ## 🌐 Live Demo
 
-Add your GitHub Pages or Vercel link here.
+https://karthik-12032005.github.io/PRODIGY_WD_02/
 
 ## 👨‍💻 Developed By
 
